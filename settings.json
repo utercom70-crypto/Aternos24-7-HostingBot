@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "brittany.aternos.host",
+    "ip": "trahira.aternos.host",
     "port": 15200,
-    "version": "1.21.1",
+    "version": false,
     "try-creative": false
   },
   "position": {
