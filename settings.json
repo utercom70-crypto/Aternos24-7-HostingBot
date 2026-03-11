@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "survival3169.aternos.me",
+    "ip": "brittany.aternos.host",
     "port": 15200,
     "version": "1.21.1",
     "try-creative": false
